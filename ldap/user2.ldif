@@ -1,0 +1,10 @@
+# Second user entry
+dn: uid=arij,ou=People,dc=insat,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: Arij Kouki
+sn: Arouja
+uid: arij
+userPassword: {SSHA}LunQ+faz9z6rGUyTdHiAckZd/OoWaa8j

@@ -1,0 +1,4 @@
+# Organizational Unit for People
+dn: ou=People,dc=insat,dc=com
+objectClass: organizationalUnit
+ou: People

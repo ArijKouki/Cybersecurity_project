@@ -1,0 +1,14 @@
+dn: uid=omar,ou=People,dc=insat,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+objectClass: posixAccount
+cn: Omar Jabloun
+sn: Omar
+uid: omar
+userPassword: {SSHA}8/s+bot9IJTM1oAsQ3wGMNlx01IcDVYb
+uidNumber: 1003
+gidNumber: 1003
+homeDirectory: /home/omar
+loginShell: /bin/bash

@@ -1,0 +1,3 @@
+dn: ou=Groups,dc=insat,dc=com
+objectClass: organizationalUnit
+ou: Groups

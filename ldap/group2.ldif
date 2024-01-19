@@ -1,0 +1,6 @@
+dn: cn=group2,ou=Groups,dc=insat,dc=com
+objectClass: top
+objectClass: groupOfNames
+cn: group2
+member: uid=arij,ou=People,dc=insat,dc=com
+

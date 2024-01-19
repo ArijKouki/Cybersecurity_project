@@ -1,0 +1,4 @@
+dn: uid=lass,ou=People,dc=insat,dc=com
+changetype: modify
+add: userCertificate;binary
+userCertificate;binary:< file://outcert.der
